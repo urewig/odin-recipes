@@ -1,3 +1,3 @@
 # odin-recipes
-Rezept für einen einfaches Salat.
+Rezept für einen einfachen Salat.
 Geschrieben in HTML und CSS und dient den Übungszwecken.
