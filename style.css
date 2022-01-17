@@ -1,0 +1,25 @@
+p, ul, ol {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+h2 {
+    color: rgb(94, 19, 105);
+}
+h1 {
+    text-decoration: underline;
+}
+
+.round {
+    background-color: rgb(85, 167, 235);
+    border-radius: 15px;
+}
+
+.round-two {
+    background-color: rgb(144, 137, 240);
+    border-radius: 15px;
+}
+
+body {
+    background-color: rgb(202, 201, 190);
+}
